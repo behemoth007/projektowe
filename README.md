@@ -1,4 +1,4 @@
-# panda_application
+# panda_application - final
 This is an production application sample for the learning purposes.
 
 The app consist of:
